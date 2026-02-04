@@ -4,7 +4,7 @@
 
 *Showcasing the GitHub profile ReadMe*
 
-<a href="./LICENSE" target="_blank"><img alt="license badge" src="https://img.shields.io/github/license/OGS-GmbH/sassdoc-markdown?color=0f434e&logo=hackthebox&logoColor=000000&labelColor=ffffff" /></a>
+<a href="./LICENSE" target="_blank"><img alt="license badge" src="https://img.shields.io/github/license/ogs-de/.github?color=0f434e&logo=hackthebox&logoColor=000000&labelColor=ffffff" /></a>
 
 ## License
 
