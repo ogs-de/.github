@@ -8,6 +8,6 @@
 
   *Working on tasks for [@OGS-GmbH](https://github.com/OGS-GmbH/).<br/>If you have anything to discuss, contact [OGS](https://www.ogs.de/) or create an issue in the specific repository.*
 
-  [Repositories](https://github.com/orgs/OGS-GmbH/repositories) | [Website](https://www.ogs.de/)
+  [Repositories](https://github.com/orgs/OGS-GmbH/repositories) | [Imprint](https://www.ogs.de/en/imprint/) | [Contact](https://www.ogs.de/en/contact/) | [Careers](https://www.ogs.de/en/about-ogs/#Careers)
   
 </div>
